@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://user-images.githubusercontent.com/17007550/219115102-17068774-18e7-4185-b0f1-ec1a49035d94.gif")
+- 🔭 I’m currently working on toy apps
+- 🌱 I’m currently learning Android App Development
+- 💬 Ask me about kotlin!
+
+
+
