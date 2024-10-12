@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://user-images.githubusercontent.com/17007550/219340812-af7ecf57-49d3-4ebb-8a6f-865e60e236d3.gif" width="100" height="100"/>
 
-- 🔭 I’m currently working on Android apps
-- 🌱 I’m currently learning Android App Development
+- 🔭 I’m currently working on Android apps.
 - 💬 Ask me about kotlin!
 
 
